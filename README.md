@@ -56,9 +56,9 @@ A full-featured web application built with Django following MVC architecture.
 
 ## 📊 GitHub Stats
 
-![Yonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![Yonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yonathanmdev&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonathanmdev&layout=compact&theme=dark&hide_border=true)
 
 ---
 
